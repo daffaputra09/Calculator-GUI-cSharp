@@ -1,0 +1,17 @@
+D:\cs\CalculatorGui\CalculatorGui\bin\Debug\net7.0-windows\CalculatorGui.exe
+D:\cs\CalculatorGui\CalculatorGui\bin\Debug\net7.0-windows\CalculatorGui.deps.json
+D:\cs\CalculatorGui\CalculatorGui\bin\Debug\net7.0-windows\CalculatorGui.runtimeconfig.json
+D:\cs\CalculatorGui\CalculatorGui\bin\Debug\net7.0-windows\CalculatorGui.dll
+D:\cs\CalculatorGui\CalculatorGui\bin\Debug\net7.0-windows\CalculatorGui.pdb
+D:\cs\CalculatorGui\CalculatorGui\obj\Debug\net7.0-windows\CalculatorGui.csproj.AssemblyReference.cache
+D:\cs\CalculatorGui\CalculatorGui\obj\Debug\net7.0-windows\CalculatorGui.Form1.resources
+D:\cs\CalculatorGui\CalculatorGui\obj\Debug\net7.0-windows\CalculatorGui.csproj.GenerateResource.cache
+D:\cs\CalculatorGui\CalculatorGui\obj\Debug\net7.0-windows\CalculatorGui.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs\CalculatorGui\CalculatorGui\obj\Debug\net7.0-windows\CalculatorGui.AssemblyInfoInputs.cache
+D:\cs\CalculatorGui\CalculatorGui\obj\Debug\net7.0-windows\CalculatorGui.AssemblyInfo.cs
+D:\cs\CalculatorGui\CalculatorGui\obj\Debug\net7.0-windows\CalculatorGui.csproj.CoreCompileInputs.cache
+D:\cs\CalculatorGui\CalculatorGui\obj\Debug\net7.0-windows\CalculatorGui.dll
+D:\cs\CalculatorGui\CalculatorGui\obj\Debug\net7.0-windows\refint\CalculatorGui.dll
+D:\cs\CalculatorGui\CalculatorGui\obj\Debug\net7.0-windows\CalculatorGui.pdb
+D:\cs\CalculatorGui\CalculatorGui\obj\Debug\net7.0-windows\CalculatorGui.genruntimeconfig.cache
+D:\cs\CalculatorGui\CalculatorGui\obj\Debug\net7.0-windows\ref\CalculatorGui.dll
